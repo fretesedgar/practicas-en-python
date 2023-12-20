@@ -1,0 +1,12 @@
+n1=float(input("Ingresa el primer valor: "))
+n2=float(input("Ingresa el segundo valor: "))
+suma=n1+n2
+resta=n1-n2
+mul=n1*n2
+div=n1/n2
+diventera=n1//n2
+print(f"Suma= {suma}")
+print(f"Resta= {resta}")
+print(f"Producto= {mul}")
+print(f"Division= {div}")
+print(f"Division entera= {diventera}")
